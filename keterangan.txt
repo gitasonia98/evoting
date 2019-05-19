@@ -1,0 +1,10 @@
+cara buka admin :
+
+http://localhost/TokoGita/Admin/
+nama :gitasonia98@gmail.com
+pass : gita12345
+
+cara liat di database :
+
+http://localhost/phpmyadmin/
+lalu pilih database tokogita
